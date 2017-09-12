@@ -57,7 +57,7 @@
 		<resolution>480</resolution>
 		<preMeasure>4</preMeasure>
 		<timeSig><m>0</m><nu>4</nu><de>4</de></timeSig>
-		<tempo><t>0</t><v>20000</v></tempo>
+		<tempo><t>0</t><v>13000</v></tempo>
 	</masterTrack>
 	<vsTrack>
 		<tNo>0</tNo>
